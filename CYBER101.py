@@ -45,8 +45,7 @@ from bs4 import BeautifulSoup
 
 os.system("espeak \"Follow My Profile\"")
 print ('\033[0;101m🌺𝙁𝙤𝙡𝙡𝙤𝙬 𝙈𝙮 PROFILE✅\033[0m\n')
-os.system('xdg-open https://www.facebook.com/nasiruddinbappy.bappy=ZbWKwL');time.sleep(1)
-
+os.system('xdg-open https://www.facebook.com/nasiruddinbappy.bappy/');time.sleep(1)
 ct = datetime.now()
 n = ct.month
 bulan = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'Agustus', 'September', 'October', 'November', 'December']
@@ -160,8 +159,8 @@ class Sagor:
         for e in z + "\n":
             sys.stdout.write(e)
             sys.stdout.flush()
-            time.sleep(0.009)
-os.system('xdg-open https://www.facebook.com/nasiruddinbappy.bappy=ZbWKwL');time.sleep(1)
+            time.sleep(0.008)
+os.system('xdg-open https://www.facebook.com/nasiruddinbappy.bappy/');time.sleep(1)
 logo =("""  _     ____        __    __    _ 
    / __ \____ _/ /_  / /_  (_)
   / /_/ / __ `/ __ \/ __ \/ / 
@@ -216,7 +215,7 @@ def xxr():
     print(" LIMIT = 3000 , 5000,  15000 , 20000,50000 ")
   #print("\033[1;92m〠〠〠〠〠〠〠〠〠〠〠〠〠〠〠〠〠〠〠〠〠〠〠\033[0m")
     
-    os.system('xdg-openhttps://www.facebook.com/nasiruddinbappy.bappy=ZbWKwL/')
+    os.system('xdg-openhttps://www.facebook.com/nasiruddinbappy.bappy/')
     limit=int(input(" \033[1;33m</> CHOOSE LIMIT : "))
     for nmbr in range(limit):
         nmp = ''.join(random.choice(string.digits) for _ in range(8))
